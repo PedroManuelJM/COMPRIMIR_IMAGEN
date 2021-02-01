@@ -4,11 +4,15 @@ import './index.css';
 import App from './App';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import reportWebVitals from './reportWebVitals';
-
+import { HashRouter,Route, Switch} from "react-router-dom";
 ReactDOM.render(
   <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+    <HashRouter basename={process.env.PUBLIC_URL + "/"}>
+      <Switch>
+        <Route exact path="/" component={App} />
+      </Switch>
+    </HashRouter>
+    </React.StrictMode>,
   document.getElementById('root')
 );
 

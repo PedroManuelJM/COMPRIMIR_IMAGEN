@@ -42,7 +42,7 @@ function App() {
 
       <nav className="navbar navbar-light bg-success sticky-top">
         <div className="container-fluid">
-          <a className="navbar-brand text-white" href="#">
+          <a className="navbar-brand text-white" href="https://pedromanueljm.github.io/COMPRIMIR_IMAGEN/#/">
             <img src={icon} alt="" className="d-inline-block align-top" />
            . Compressor Image
         </a>
