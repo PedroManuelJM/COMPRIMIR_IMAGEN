@@ -3,6 +3,7 @@ import "./App.css";
 import imageCompression from "browser-image-compression";
 import icon from './assets/imagen.png';
 import icon1 from './assets/logogithub.png';
+import foto from './assets/foto.png';
 function App() {
 
   const [origImage, setOrigImage] = useState("");
@@ -57,7 +58,7 @@ function App() {
               {origImageFile ? (
                 <img src={origImageFile} className="" />
               ) : (
-                  <img src="http://navparivartan.in/wp-content/uploads/2018/11/placeholder.png" />
+                  <img src={foto} />
                 )}
             </div>
             <div className="padding"></div>
@@ -91,7 +92,7 @@ function App() {
               {compressedImage ? (
                 <img src={compressedImage}></img>
               ) : (
-                  <img src="http://navparivartan.in/wp-content/uploads/2018/11/placeholder.png"></img>
+                  <img src={foto}></img>
 
                 )}
             </div>
