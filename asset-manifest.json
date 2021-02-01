@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/COMPRIMIR_IMAGEN/static/css/main.3a813c1d.chunk.css",
-    "main.js": "/COMPRIMIR_IMAGEN/static/js/main.e0fae9dc.chunk.js",
-    "main.js.map": "/COMPRIMIR_IMAGEN/static/js/main.e0fae9dc.chunk.js.map",
+    "main.js": "/COMPRIMIR_IMAGEN/static/js/main.ec006b23.chunk.js",
+    "main.js.map": "/COMPRIMIR_IMAGEN/static/js/main.ec006b23.chunk.js.map",
     "runtime-main.js": "/COMPRIMIR_IMAGEN/static/js/runtime-main.98a95370.js",
     "runtime-main.js.map": "/COMPRIMIR_IMAGEN/static/js/runtime-main.98a95370.js.map",
     "static/css/2.150d169a.chunk.css": "/COMPRIMIR_IMAGEN/static/css/2.150d169a.chunk.css",
@@ -13,13 +13,14 @@
     "index.html": "/COMPRIMIR_IMAGEN/index.html",
     "static/css/2.150d169a.chunk.css.map": "/COMPRIMIR_IMAGEN/static/css/2.150d169a.chunk.css.map",
     "static/css/main.3a813c1d.chunk.css.map": "/COMPRIMIR_IMAGEN/static/css/main.3a813c1d.chunk.css.map",
-    "static/js/2.9d07583a.chunk.js.LICENSE.txt": "/COMPRIMIR_IMAGEN/static/js/2.9d07583a.chunk.js.LICENSE.txt"
+    "static/js/2.9d07583a.chunk.js.LICENSE.txt": "/COMPRIMIR_IMAGEN/static/js/2.9d07583a.chunk.js.LICENSE.txt",
+    "static/media/foto.5bb50bf4.png": "/COMPRIMIR_IMAGEN/static/media/foto.5bb50bf4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.98a95370.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.9d07583a.chunk.js",
     "static/css/main.3a813c1d.chunk.css",
-    "static/js/main.e0fae9dc.chunk.js"
+    "static/js/main.ec006b23.chunk.js"
   ]
 }
