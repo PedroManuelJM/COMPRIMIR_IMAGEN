@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/COMPRIMIR_IMAGEN/static/css/main.3a813c1d.chunk.css",
-    "main.js": "/COMPRIMIR_IMAGEN/static/js/main.ec006b23.chunk.js",
-    "main.js.map": "/COMPRIMIR_IMAGEN/static/js/main.ec006b23.chunk.js.map",
+    "main.js": "/COMPRIMIR_IMAGEN/static/js/main.2818f232.chunk.js",
+    "main.js.map": "/COMPRIMIR_IMAGEN/static/js/main.2818f232.chunk.js.map",
     "runtime-main.js": "/COMPRIMIR_IMAGEN/static/js/runtime-main.98a95370.js",
     "runtime-main.js.map": "/COMPRIMIR_IMAGEN/static/js/runtime-main.98a95370.js.map",
     "static/css/2.150d169a.chunk.css": "/COMPRIMIR_IMAGEN/static/css/2.150d169a.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.9d07583a.chunk.js",
     "static/css/main.3a813c1d.chunk.css",
-    "static/js/main.ec006b23.chunk.js"
+    "static/js/main.2818f232.chunk.js"
   ]
 }
