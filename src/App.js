@@ -52,6 +52,7 @@ function App() {
 
       <div className="container">
         <br /><br /><br />
+        <div className="separar"></div>
         <div className="row row-cols-1 row-cols-md-3 g-4">
           <div className="col">
             <div className="card">
@@ -112,7 +113,7 @@ function App() {
       </div>
      <div className="separar"></div>
       <footer id="footer" className="padded bg-success">
-                    <div className="container">
+                    <div className="container" style={{padding:"25px"}}>
                          <br></br>
                         <h6 className="text-center text-white"> 2021 - Todos los derechos reservados </h6>
                         <div className="col text-center">
